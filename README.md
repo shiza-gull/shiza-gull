@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shiza-gull 
 - 🌱 I’m currently diving deep into Docker, Kubernetes, and AWS to further streamline deployments.
 - 💞️ I’m looking to collaborate on innovative open-source DevOps project.
-- 📫 How to reach me :connect with me on LinkedIn: https://linkedin.com/in/shiza-gull.
+- 📫 How to reach me on LinkedIn: https://linkedin.com/in/shiza-gull.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I enjoy experimenting.
 
