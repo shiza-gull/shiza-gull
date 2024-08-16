@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @shiza-gull 
-- 🌱 I’m currently diving deep into Docker, Kubernetes, and AWS to further streamline deployments.
+- 🛠️ Highly skilled Linux SysAdmin with over 2 years of experience 
+- 🌱 I’m currently diving deep into DevOps and AWS to further streamline deployments.
 - 💞️ I’m looking to collaborate on innovative open-source DevOps project.
 - 📫 How to reach me on LinkedIn: https://linkedin.com/in/shiza-gull.
 - 😄 Pronouns: she/her
